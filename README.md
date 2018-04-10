@@ -1,4 +1,4 @@
-# CTF Kaizen Arabia 2018
+# CTF Kaizen Arabia 2018 Writeups
 
 ![alt text](https://safcsp.org.sa/images/ctf/poster-safcsp.jpg)
 
