@@ -2,7 +2,7 @@
 
 ![alt text](https://safcsp.org.sa/images/ctf/poster-safcsp.jpg)
 
-## Challenges sections:
+## Challenges Categories:
 
 - Coding
 - Crypto
