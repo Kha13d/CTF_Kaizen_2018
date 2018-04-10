@@ -9,6 +9,7 @@ Olympic City recently setup an encrypted messaging system. <p><p>Decrypt the mes
 ## Challenge Solution:
 
 In this challenge we have a public key and the flag encrypted with an uknown praivet key,
+
 Checking the pub key, we can know that RSA has been used for encryption.
 
 Using OpenSSL to convert PEM to N and e:
@@ -29,7 +30,7 @@ Exponent: 65537 (0x10001)
 
 ```
 
-Since the key size for the RSA is small we can factor it to find the privet key.
+Since the key size for the RSA is small we can factor it to find the privet key or decrypt the cipher.
 
 Using [RsaCtfTool](https://github.com/Ganapati/RsaCtfTool) to attack RSA.
 
