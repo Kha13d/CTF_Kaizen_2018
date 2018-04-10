@@ -20,6 +20,6 @@ The output:
 chr(102),chr(108),chr(97),chr(103),chr(58),chr(123),chr(73),chr(69),chr(69),chr(69),chr(95),chr(56),chr(48),chr(50),chr(46),chr(49),chr(53),chr(46),chr(52),chr(125)
 ```
 
-It is CHR function using Python we find the Flag
+It is CHR function using Python we find the Flag.
 
-### Flag: flag:{IEEE_802.15.4}
+#### Flag:  flag:{IEEE_802.15.4}
