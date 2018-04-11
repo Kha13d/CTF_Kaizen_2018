@@ -21,6 +21,10 @@ Now attack the public key to find the privet key.
 
 You can use [RsaCtfTool](https://github.com/Ganapati/RsaCtfTool) to find the privete key, or you use [Factordb](http://factordb.com/)
 
+##### Factordb:
+
+python code: dec_sol.py
+
 ##### RSACTFTOOL:
 
 ```
@@ -28,8 +32,6 @@ python RsaCtfTool.py --createpub -n 47647552610849991581623686424393574412828853
 python RsaCtfTool.py --publickey "pub.pub" -privete
 ```
 
-##### Factordb:
 
-python code: dec_sol.py
 
-### Flag: SAFCSP{always_check_RSA_parameters_for_FIPS_compliance}
+#### Flag: SAFCSP{always_check_RSA_parameters_for_FIPS_compliance}
